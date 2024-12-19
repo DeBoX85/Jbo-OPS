@@ -17,7 +17,7 @@ az network vnet subnet show --resource-group $rgname --name $subnet --vnet $vnet
 
 #Examples
 
-az network vnet subnet show --resource-group Cloudockit --name AzureBastionSubnet --vnet Cloudockit-vnet
+az network vnet subnet show --resource-group Stuff --name AzureBastionSubnet --vnet Stuff-app-vnet
 
 
-az network vnet subnet show --resource-group rcnwe-cn-perimrc-p-rgp-001 --name rcnwe-sknet-p-vne-001 --vnet rcnwe-cn-perimrc-p-vne-001
+az network vnet subnet show --resource-group rgname-cn-xxxxx-p-rgp-001 --name abcd-xxxx-p-vne-001 --vnet abcd-cn-xxxxx-p-vne-001
